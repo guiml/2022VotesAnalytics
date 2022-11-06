@@ -19,8 +19,10 @@ I already saved the information for the city of Porto Alegre in the __Output fol
 
 To use this code the user must:
 
-1) Execute the codes __1 Process Zonas Eleitorais_RS__ or __1 Process Zonas Eleitorais_SP__ depending on which city you want to analyse
-2) Execute the code __2 Process Zonas Eleitorais Secoes Votos__ or __2 Votes NE__ 
+* If you want to process Zonas eleitorais and their addresses, run set of codes 1 (Process Zonas Eleitoraisl, for either SP or RS), and then 2 Process Zonas Eleitorais Secoes Votos.
+* If you want just to analyze the votes by regions (NE and CO) run codes 2 (Votes CO or Votes NE)
+* If you want to run the ScatterPlot for regions, run code 3 Votes scatterplots
+
 
 ## Expected updates
 
