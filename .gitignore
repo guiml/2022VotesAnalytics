@@ -25,3 +25,8 @@ Shapefiles/Zonas_Poa.dbf
 Shapefiles/Zonas_Poa.shp
 Shapefiles/Zonas_Poa.cpg
 Shapefiles/Shape_Poa.sbx
+CSV/votacao_secao_2022_RS.csv
+.gitignore
+CSV/votacao_secao_2020_RS.csv
+.gitignore
+CSV/bweb_1t_RS_051020221321.csv
