@@ -10,22 +10,25 @@ On notebooks 2 onwards I already use the data from TSE with geographical informa
 
 #### Process voting locations and create datasets easy to connect with voting data (deprecated):
 
-[1 Process Zonas Eleitorais_RS.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/1%20Process%20Zonas%20Eleitorais_RS.ipynb)
-[1 Process Zonas Eleitorais_SP.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/1%20Process%20Zonas%20Eleitorais_SP.ipynb)
+- [1 Process Zonas Eleitorais_RS.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/1%20Process%20Zonas%20Eleitorais_RS.ipynb)
+- [1 Process Zonas Eleitorais_SP.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/1%20Process%20Zonas%20Eleitorais_SP.ipynb)
 
 #### Various exploratory Data Analytics for 2022 elections: 
 
-[2 Votes BR.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/2%20Votes%20BR.ipynb)
-[2 Votes CO.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/2%20Votes%20CO.ipynb)
-[3 Votes NE.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/2%20Votes%20NE.ipynb)
+- [2 Votes BR.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/2%20Votes%20BR.ipynb)
+- [2 Votes CO.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/2%20Votes%20CO.ipynb)
+- [2 Votes NE.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/2%20Votes%20NE.ipynb)
 
 #### Visualizations for vote differences: 
 
-[4 Zonas Enderecos.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/4%20Zonas%20Enderecos.ipynb)
-The outputs of the visualizations can be seen here: [Votes per sessão](https://guiml.github.io/Votos_RS_2oTurno.html) and [Difference of votes heatmap](https://guiml.github.io/Heatmap_Poa_2oTurno.html) 
+- [4 Zonas Enderecos.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/4%20Zonas%20Enderecos.ipynb)
+
+The outputs of the visualizations can be seen here: 
+- [Votes per sessão](https://guiml.github.io/Votos_RS_2oTurno.html) 
+- [Difference of votes heatmap](https://guiml.github.io/Heatmap_Poa_2oTurno.html) 
 
 #### Specific analysis for deputados in Porto Alegre: 
-[5 Analise Municipais 2020.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/5%20Analise%20Municipais%202020.ipynb)
+- [5 Analise Municipais 2020.ipynb](https://github.com/guiml/2022VotesAnalytics/blob/master/5%20Analise%20Municipais%202020.ipynb)
 
 
 ## Technology and libraries
